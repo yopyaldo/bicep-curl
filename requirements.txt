@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+mediapipe
+numpy
+pandas
+playsound==1.2.2
+joblib
+scikit-learn
